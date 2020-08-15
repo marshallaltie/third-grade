@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Marshall's 3rd Grade Schedule
 
-You can use the [editor on GitHub](https://github.com/marshallaltie/third-grade/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marshallaltie/third-grade/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 8:00-8:45 [Block 1](https://classroom.google.com/u/1/c/MTIyNTExMzUwMTY3)
+- 8:45-9:15 Intervention (Small Group)  </li>
+- 9:15-9:30 Exercise Break  </li>
+- 9:30-10:15[ Block 2](https://classroom.google.com/u/1/c/MTIyNjc3OTg3NjMz)
+- 10:20-11:10 Specials  </li>
+- 11:10-11:40 Lunch  </li>
+- 11:45-12:00 Class Meeting  </li>
+- 12:10-12:40 Intervention (Small Group)  </li>
+- 12:45-1:35[ Block 3](https://classroom.google.com/u/1/c/MTIzMDAyOTc0ODE2)
+- 1:45-3:00 virtual support/office hours </li>
