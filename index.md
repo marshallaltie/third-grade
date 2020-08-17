@@ -17,6 +17,9 @@
 [Class Link](https://launchpad.classlink.com/home?setLng=en#myapps)
 
 ## About Me
-![Rocket](./rocket.png)
 I am Marshall!
+![Rocket](./rocket.png | width=200)
+  
+
+
 
