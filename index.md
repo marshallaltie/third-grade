@@ -1,6 +1,6 @@
 ## Marshall's 3rd Grade Schedule
 
-| time | description |
+| ⏰ | ❓❓❓ |
 |---   | ---   |
 | 8:00-8:45 | [Reading & Social Studies](https://classroom.google.com/u/1/c/MTIyNTExMzUwMTY3) |
 | 8:45-9:15 | Intervention (Small Group)  |
