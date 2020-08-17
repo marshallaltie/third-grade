@@ -18,8 +18,6 @@
 
 ## About Me
 I am Marshall!
-![Rocket](./rocket.png | width=200)
-  
 
 
 
