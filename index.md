@@ -3,8 +3,8 @@
 | ⏰ | ❓❓❓ |
 |---   | ---   |
 | 8:00-8:45 | [Reading & Social Studies](https://classroom.google.com/u/1/c/MTIyNTExMzUwMTY3) |
-| 8:45-9:15 | Intervention (Small Group)  |
-| 9:15-9:30 | Exercise Break  |
+| 8:45-9:15 | Under "Upcoming" look for "Due Today" Items  |
+| 9:15-9:30 | Exercise Break (Get your wiggles out!)  |
 | 9:30-10:15 | [Math](https://classroom.google.com/u/1/c/MTIyNjc3OTg3NjMz)|
 | 10:20-11:10 | Specials & Recess |
 | 11:10-11:40 | Lunch |
