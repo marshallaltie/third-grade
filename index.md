@@ -6,7 +6,7 @@
 | 8:45-9:15 | In Criaco Under "Upcoming" look for "Due Today" Items  |
 | 9:15-9:30 | Exercise Break (Get your wiggles out!)  |
 | 9:30-10:15 | [Page](https://classroom.google.com/u/1/c/MTIyNjc3OTg3NjMz)|
-| 10:20-11:40 | Specials & Recess|
+| 10:20-11:40 | Specials on Wednesday, otherwise: Recess |
 | 11:45-12:00 | [Class Meeting](https://classroom.google.com/u/1/c/MTIyNTExMzUwMTY3)|
 | 12:10-12:40 | Lunch |
 | 12:45-1:35 | [Unger](https://classroom.google.com/u/1/c/MTIzMDAyOTc0ODE2) |
