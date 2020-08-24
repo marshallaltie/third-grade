@@ -1,22 +1,26 @@
 ## Marshall's 3rd Grade Schedule
 
 | ⏰ | ❓❓❓ |
-|---   | ---   |
-| 8:00-8:45 | [Criaco](https://classroom.google.com/u/1/c/MTIyNTExMzUwMTY3) |
-| 8:45-9:15 | In Criaco Under "Upcoming" look for "Due Today" Items  |
-| 9:15-9:30 | Exercise Break (Get your wiggles out!)  |
-| 9:30-10:15 | [Page](https://classroom.google.com/u/1/c/MTIyNjc3OTg3NjMz)|
-| 10:20-11:40 | Specials on Wednesday, otherwise: Recess |
-| 11:45-12:00 | [Class Meeting](https://classroom.google.com/u/1/c/MTIyNTExMzUwMTY3)|
-| 12:10-12:40 | Lunch |
-| 12:45-1:35 | [Unger](https://classroom.google.com/u/1/c/MTIzMDAyOTc0ODE2) |
-| 1:45-3:00 | Catch up on assignments, Make sure everything is turned in. Clean up Work Station |
+|---          | ---   |
+| 8:00-8:45   | [Criaco Homeroom Pt. 1](https://classroom.google.com/u/1/c/MTIyNTExMzUwMTY3) |
+| 8:45-9:15   | [Criaco Intervention / Cursive](https://classroom.google.com/u/1/c/MTIyNTExMzUwMTY3) |
+| 9:15-10:00  | [Criaco Homeroom Pt. 2](https://classroom.google.com/u/1/c/MTIyNTExMzUwMTY3)  |
+| 10:00-10:15 | [Criaco Class Meeting](https://classroom.google.com/u/1/c/MTIyNTExMzUwMTY3)|
+| 10:20-11:1p | Specials on Wednesday, otherwise: Recess |
+| 11:10-11:40 | "Lunch" But go get your wiggles out with mommy | 
+| 11:45-12:05 | [Page Math and Science](https://classroom.google.com/u/0/c/MTIyNTExMzUwMTY3) |
+|12:10-12:40  | "Intervention" but let's have lunch with daddy|
+| 12:45-1:45  | [Page Pt. 2](https://classroom.google.com/u/0/c/MTIyNTExMzUwMTY3) |
+| 1:45 - 2:00 | Clean up Desk and Wind down |
+
+## During Free Time
+
+
+In Criaco Under "Upcoming" look for "Due Today" Items.
 
 ## Links
 [Class Link](https://launchpad.classlink.com/home?setLng=en#myapps)
 
 ## About Me
 I am Marshall!
-
-
 
